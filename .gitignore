@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data/
+output/
+*.sas7bdat
+*.dta
+*.rds
+*.csv
+*.xlsx
+*.RData
+.Renviron
+config_local.R
